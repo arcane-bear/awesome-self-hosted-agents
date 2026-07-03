@@ -76,6 +76,7 @@
 - [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Community focused on running LLMs locally with hardware guides, benchmarks, and tutorials.
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Contributing
 
