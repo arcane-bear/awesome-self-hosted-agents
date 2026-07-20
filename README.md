@@ -23,6 +23,7 @@
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end LLM framework for building pipelines with retrieval, generation, and agent components.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that takes a one-line requirement and outputs PRDs, design docs, and code.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Minimal task-driven autonomous agent that creates, prioritizes, and executes tasks using LLMs.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI, reachable over Telegram, Slack, Discord, and Matrix. Single Bun and SQLite container.
 
 ## LLM Backends
 
