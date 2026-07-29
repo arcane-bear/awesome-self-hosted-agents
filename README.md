@@ -19,6 +19,7 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor agent applications with cycles and controllability.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Dev-first framework for building, managing, and running autonomous agents with tool integrations.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Browser-based autonomous agent platform, fully self-hostable with Docker.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Self hosted autonomous AI agent for offensive security that tests web, API, Active Directory and Kubernetes with proof of exploitation.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Open-source autonomous software engineer agent that plans, writes code, and uses a sandboxed terminal.
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end LLM framework for building pipelines with retrieval, generation, and agent components.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that takes a one-line requirement and outputs PRDs, design docs, and code.
