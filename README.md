@@ -51,6 +51,7 @@
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform with request logging, caching, and rate limiting.
 - [agent-probe](https://github.com/arcane-bear/agent-probe) - Lightweight CI/CD health-check workflow for AI agent repos.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open-source observability for LLM applications with tracing, evaluation, and dataset management.
+- [Command OS](https://github.com/faraz-jb/ai-invention-command-os) - Multi-tenant control plane for AI agencies: one dashboard + one MCP endpoint to run every client's agents, projects, sites, and revenue. Remote-exec without SSH (pull-based connect-back), 19-tool MCP server, SQLite, self-hosted with Docker.
 
 ## Cost and Budget Tools
 
