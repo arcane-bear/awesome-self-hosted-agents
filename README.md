@@ -20,6 +20,7 @@
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Dev-first framework for building, managing, and running autonomous agents with tool integrations.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Browser-based autonomous agent platform, fully self-hostable with Docker.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Open-source autonomous software engineer agent that plans, writes code, and uses a sandboxed terminal.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted, local-first agent runtime and MCP bridge with persistent sessions, governed tool access, audit/replay, and Docker/Kubernetes/worker execution backends.
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end LLM framework for building pipelines with retrieval, generation, and agent components.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that takes a one-line requirement and outputs PRDs, design docs, and code.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Minimal task-driven autonomous agent that creates, prioritizes, and executes tasks using LLMs.
