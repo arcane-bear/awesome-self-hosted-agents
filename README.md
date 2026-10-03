@@ -51,6 +51,7 @@
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform with request logging, caching, and rate limiting.
 - [agent-probe](https://github.com/arcane-bear/agent-probe) - Lightweight CI/CD health-check workflow for AI agent repos.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open-source observability for LLM applications with tracing, evaluation, and dataset management.
+- [Tale](https://github.com/tale-project/tale) - Self-hosted workspace for assigning agent tasks, coordinating persistent sandbox sessions, and reviewing deliverables.
 
 ## Cost and Budget Tools
 
