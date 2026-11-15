@@ -47,6 +47,7 @@
 
 - [Prefect](https://github.com/PrefectHQ/prefect) - Workflow orchestration tool for building, scheduling, and monitoring data and ML pipelines.
 - [Temporal](https://github.com/temporalio/temporal) - Durable execution platform for running reliable distributed workflows and long-running agent tasks.
+- [Temporality](https://github.com/RuslanGabbasov/temporality) - Self-hosted agent runtime with durable workflows on Temporal, run tracing, human approvals, sandboxed execution, and reusable knowledge across runs.
 - [Langfuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform for tracing, evaluating, and debugging agent runs. Self-hostable.
 - [Helicone](https://github.com/Helicone/helicone) - Open-source LLM observability platform with request logging, caching, and rate limiting.
 - [agent-probe](https://github.com/arcane-bear/agent-probe) - Lightweight CI/CD health-check workflow for AI agent repos.
